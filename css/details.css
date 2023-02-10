@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+/*Navbar*/
+
+.nav-item{
+    padding-right:1.5rem;
+  }
+
+.collapse{
+    margin-left: 5rem;
+}
+
+.container-fluid{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    width:100%;
+    margin:0;
+    padding:0;
+    display:flex;
+    justify-content:space-between;
+    background-color:#009688;
+    font-size:20px;
+}
+
+.navbar-img{
+
+    height: 60px;
+    width: 60px;
+    border-radius:50px;
+}
+
+img{
+    opacity:0.9;
+}
+
+/* table */
+
+.colored-section{
+    margin: 0%;
+    padding: 0%;
+}
+
+.row{
+    padding: 6rem;
+}
+
+.sbar{
+    margin: 0% 15%;
+}
+
+.head{
+    background-color: #F0EEED;
+}
+
+.col{
+    padding: 5px;
+}
+
+
+tr:hover
+{
+	background-color:#EBECF0;
+}
+
+
+
+
+.download-button {
+    margin: 3% 0 3% 37rem;
+    width: 50%;
+    padding:0 10px;
+  }
